@@ -5,6 +5,9 @@ Implementation of the LocoNet to MQTT Gateway for ESP32
 This library makes use of the LocoNet and MQTT libraries and provides routing functions for Loconet messages crossing the network bounderies. It also provides a 
 message interface for the local ESP32 running the gateway.
 
+See this YoutTube video for more information:
+https://youtu.be/CQ_i9IjvNpc
+
 Download the ZIP file and install it using the normal Arduino IDE installation procedure. 
 
 Use in your own sketch
